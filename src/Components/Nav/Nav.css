@@ -1,0 +1,22 @@
+.nav-menu{
+    background-color: black;
+    padding: 10em;
+    /* display: flex; */
+
+}
+
+.nav-menu a{
+    background-color: yellow;
+    padding: 2em;
+    color: white;
+    /* display: flex; */
+
+}
+
+.active{
+    font-weight: bolder;
+    text-decoration: underline;
+    background-color: null;
+    color: black;
+    /* display: flex; */
+}
